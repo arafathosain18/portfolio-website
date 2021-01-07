@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.helo {
+    color: brown; 
+}
+h1{
+    font-size:50px;
+}
+#oll {
+    color: #10c942;
+}
+p {
+    font-size: 15px;
+    font-weight: 700;
+}
+.half {
+    width:40%;
+    float: left;
+
+}
+.half img {
+    width:80%;
+    margin-left: 5%;
+    float: left;
+    padding-right: 2%;
+}
