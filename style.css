@@ -12,17 +12,38 @@ h1{
     color: #10c942;
 }
 p {
-    font-size: 15px;
-    font-weight: 700;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
 }
-.half {
-    width:40%;
-    float: left;
+#name{
+color: #46916a;}
+.first{
+    font-family: Bebas Neue;
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 80px;
 
-}
-.half img {
-    width:80%;
-    margin-left: 5%;
+color: #363958;
+    }
+
+.half-width{
+    width: 40%;
     float: left;
-    padding-right: 2%;
+    margin-left: 6%;
+    padding-left: 3%;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+
+    color: #363958;
+    }
+.half-width img {
+    width: 74%;
 }
+
